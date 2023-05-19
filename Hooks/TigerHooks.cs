@@ -70,7 +70,7 @@ namespace SpecFlowProject1.TigerHooks
 
             if (driver != null)
             {
-                driver.Quit();
+                //driver.Quit();
             }
         }
 
