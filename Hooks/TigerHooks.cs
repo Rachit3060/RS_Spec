@@ -21,6 +21,7 @@ namespace SpecFlowProject1.TigerHooks
         public static void BeforeTestRun()
         {
             Console.WriteLine("Running before test run...wait please");
+            Console.WriteLine("having fun??");
             ExtentReportInit();
         }
 
