@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khare\\source\\repos\\SpecFlowProject1\\SpecFlowProject1\\SpecFlowProject1.csproj": {}
+    "C:\\Ninja\\DotNet\\RS_Spec\\SpecFlowProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khare\\source\\repos\\SpecFlowProject1\\SpecFlowProject1\\SpecFlowProject1.csproj": {
+    "C:\\Ninja\\DotNet\\RS_Spec\\SpecFlowProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khare\\source\\repos\\SpecFlowProject1\\SpecFlowProject1\\SpecFlowProject1.csproj",
+        "projectUniqueName": "C:\\Ninja\\DotNet\\RS_Spec\\SpecFlowProject1.csproj",
         "projectName": "SpecFlowProject1",
-        "projectPath": "C:\\Users\\khare\\source\\repos\\SpecFlowProject1\\SpecFlowProject1\\SpecFlowProject1.csproj",
-        "packagesPath": "C:\\Users\\khare\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khare\\source\\repos\\SpecFlowProject1\\SpecFlowProject1\\obj\\",
+        "projectPath": "C:\\Ninja\\DotNet\\RS_Spec\\SpecFlowProject1.csproj",
+        "packagesPath": "C:\\Users\\rachit.srivastava\\.nuget\\packages\\",
+        "outputPath": "C:\\Ninja\\DotNet\\RS_Spec\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\khare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rachit.srivastava\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
